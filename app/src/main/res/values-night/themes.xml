@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GestorAutenticacion" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorOnPrimary">#0D47A1</item>
+        <item name="colorPrimaryContainer">#1565C0</item>
+        <item name="colorOnPrimaryContainer">#E3F2FD</item>
+        <item name="colorSecondary">#64B5F6</item>
+        <item name="colorOnSecondary">#0D47A1</item>
+        <item name="colorSecondaryContainer">#1976D2</item>
+        <item name="colorOnSecondaryContainer">#E3F2FD</item>
+        <item name="colorTertiary">#4FC3F7</item>
+        <item name="colorOnTertiary">#003A75</item>
+        <item name="colorSurface">#0F172A</item>
+        <item name="colorOnSurface">#E8F1FF</item>
+        <item name="android:colorBackground">#0F172A</item>
+        <item name="colorOnBackground">#E8F1FF</item>
+        <item name="colorOutline">#5E7BAA</item>
+    </style>
+</resources>

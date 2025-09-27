@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor de Autenticación</string>
+    <string name="texto_bienvenida">Bienvenido a la app de autenticación</string>
+    <string name="accion_ir_a_inicio">Ir a inicio de sesión</string>
+    <string name="accion_ir_a_registro">Crear una cuenta</string>
+    <string name="titulo_inicio_sesion">Inicia sesión</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="accion_iniciar_sesion">Iniciar sesión</string>
+    <string name="texto_ir_a_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="titulo_registro">Regístrate</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="accion_registrarse">Registrarse</string>
+    <string name="texto_ir_a_inicio">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="error_correo_invalido">Introduce un correo electrónico válido.</string>
+    <string name="error_contrasena_invalida">La contraseña debe tener al menos 6 caracteres.</string>
+    <string name="error_nombre_vacio">El nombre no puede estar vacío.</string>
+    <string name="mensaje_sesion_iniciada">Sesión iniciada correctamente.</string>
+    <string name="mensaje_credenciales_invalidas">Credenciales incorrectas, intenta de nuevo.</string>
+    <string name="mensaje_registro_exitoso">Registro completado. Ahora puedes iniciar sesión.</string>
+    <string name="mensaje_registro_error">No se pudo registrar. Verifica los datos.</string>
+    <string name="descripcion_logo">Logo institucional de ORT</string>
+</resources>
