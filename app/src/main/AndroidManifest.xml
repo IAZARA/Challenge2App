@@ -14,6 +14,12 @@
             android:name=".ActividadInicioSesion"
             android:exported="false" />
         <activity
+            android:name=".todo.ActividadListaTareas"
+            android:exported="false" />
+        <activity
+            android:name=".todo.ActividadEditarTarea"
+            android:exported="false" />
+        <activity
             android:name=".ActividadBienvenida"
             android:exported="true">
             <intent-filter>

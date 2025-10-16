@@ -55,6 +55,7 @@ class ActividadInicioSesion : AppCompatActivity() {
                 val inicioExitoso = gestor.iniciarSesion(correo, contrasena)
                 if (inicioExitoso) {
                     Toast.makeText(this, R.string.mensaje_sesion_iniciada, Toast.LENGTH_SHORT).show()
+                    startActivity(Intent(this, com.example.autenticacion.todo.ActividadListaTareas::class.java))
                 } else {
                     Toast.makeText(this, R.string.mensaje_credenciales_invalidas, Toast.LENGTH_SHORT).show()
                 }
